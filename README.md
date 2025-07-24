@@ -16,6 +16,11 @@ The project requires a Coursera Lab environment to execute since it provides the
 
 The project structure follows the template from https://github.com/PascaleCourseraCourses/CUDAatScaleForTheEnterpriseCourseProjectTemplate.
 
+## Running The Code
+
+First, use `make clean build` to build the executable.
+Then use the provided bash script to run the code, or use your own custom arguments to run the built executable. 
+
 ## Code Organization
 
 `bin/`
